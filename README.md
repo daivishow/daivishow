@@ -12,7 +12,7 @@
 
 ## 🚀 Tecnologias que utilizo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,git,github"/>
+  <img src="https://skillicons.dev/icons?i=php,html,css,java,git,github"/>
 </p>
 
 ---
