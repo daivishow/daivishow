@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou o Daivishow! 👋/h1>
+<h1 align="left">Olá, eu sou o Daivishow! 👋</h1>
 
 ---
 
