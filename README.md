@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-Desenvolvedor%20Junior-2ea44f?style=flat-square"/>
 </p>
 
-Tenho 24 anos e sou Técnico de Segurança do Trabalho em transição de carreira para a área de tecnologia. Estou desenvolvendo minhas habilidades em programação, com foco em Frontend e Backend, e sou apaixonado por tecnologia e jogos. Compartilho parte da minha jornada e projetos no meu canal do YouTube.
+Me chamo Daivison de Oliveira (mais conhecido como Show!), tenho 24 anos e sou Técnico de Segurança do Trabalho em transição de carreira para a área de tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UniSenai de Joinville. Sou apaixonado por tecnologia e jogos, compartilho um pouco de tutoriais e humor ácido através do meu canal low profile no YouTube.
 
 <p align="left">
   <a href="https://www.youtube.com/@daivishow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
