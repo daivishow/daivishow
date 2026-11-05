@@ -1,10 +1,4 @@
-<h1 align="left">Olá, eu sou o Daivishow! 👋</h1>
-
 ---
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Desenvolvedor%20Junior-2ea44f?style=flat-square"/>
-</p>
 
 My name is Daivison de Oliveira (better known as Show!), I'm 24 years old and I'm a Safety Officer transitioning to a career in technology. Currently, I'm studying Systems Analysis and Development. I'm passionate about technology and games!
 
